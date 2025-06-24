@@ -1,8 +1,8 @@
 ## DevOps_Kubernetes
 - Offiece Assignments
-    - [Pod]()
-    - [Deployment]()
-    - [Service : Exposing the Depllyment]()
+    - [Pod](https://github.com/PriyeshRaiMinfy/DevOps_Week2/tree/main/Kubernetes_Assignment/OfficeAssignment/D1)
+    - [Deployment](https://github.com/PriyeshRaiMinfy/DevOps_Week2/tree/main/Kubernetes_Assignment/OfficeAssignment/D2)
+    - [Service : Exposing the Depllyment](https://github.com/PriyeshRaiMinfy/DevOps_Week2/tree/main/Kubernetes_Assignment/OfficeAssignment/D3)
 - Home Assignments 
-    - [Helm]()
-    - [Mongo Application]()
+    - [Helm](https://github.com/PriyeshRaiMinfy/DevOps_Week2/tree/main/Kubernetes_Assignment/HomeAssignmet/Helm)
+    - [Mongo Application](https://github.com/PriyeshRaiMinfy/DevOps_Week2/tree/main/Kubernetes_Assignment/HomeAssignmet/MongoApp)
