@@ -89,15 +89,15 @@ kubectl describe pod nginx-pod-priyesh
 
 ---
 
-### 📸 Screenshots
+### Screenshots
 
-> ![Pod Created](./images/d1-pod-created.png)  
-> ![Pod Logs](./images/d1-pod-logs.png)  
-> ![Describe Pod](./images/d1-pod-describe.png)
+> ![Pod Created](./images/Screenshot%202025-06-21%20183050.png)  
+> ![Pod Logs](./images/image.png)  
+> ![Describe Pod](./images/image%20copy.png)
 
 ---
 
-### 📤 Output Samples
+### Output Samples
 
 ```
 pod/nginx-pod-priyesh created

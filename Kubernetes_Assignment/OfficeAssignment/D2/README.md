@@ -24,15 +24,15 @@ kubectl describe deployment nginx-deployment
 
 ---
 
-### 📸 Screenshots
+### Screenshots
 
-> ![Deployment Created](./images/d2-deployment-created.png)  
-> ![Deployment Pods](./images/d2-pods.png)  
-> ![ReplicaSet](./images/d2-replicaset.png)
+> ![Deployment Created](./images/Screenshot%202025-06-21%20191307.png)  
+> ![Deployment Pods](./images/Screenshot%202025-06-21%20190748.png)  
+> ![ReplicaSet](./images/Screenshot%202025-06-21%20190748.png)
 
 ---
 
-### 📤 Output Samples
+### Output Samples
 
 ```
 deployment.apps/nginx-deployment created

@@ -23,14 +23,21 @@ minikube service nginx-service
 
 ---
 
-### 📸 Screenshots
+### Screenshots
 
-> ![Service Created](./images/d3-service-created.png)  
-> ![Service Access](./images/d3-service-access.png)  
+> ![Service Created](./image/Screenshot%202025-06-21%20201858.png)  
+> ![Service Access](./image/Screenshot%202025-06-21%20202034.png)  
+> ![Service Access](./image/Screenshot%202025-06-21%20202051.png)  
+> ![Service Access](./image/Screenshot%202025-06-21%20202343.png)  
+.
+---
+ - nginx-deployment-priyesh-live got created
+> ![Service Access](./image/Screenshot%202025-06-21%20202618.png)  
+> ![Service Access](./image/Screenshot%202025-06-21%20202633.png)  
 
 ---
 
-### 📤 Output Samples
+### Output Samples
 
 ```
 service/nginx-service created
@@ -39,4 +46,8 @@ NAME            TYPE       CLUSTER-IP     EXTERNAL-IP   PORT(S)        AGE
 nginx-service   NodePort   10.96.0.1      <none>        80:30080/TCP   10s
 ```
 
+---
+
+### Cleanup
+>![Cleanup](./image/Screenshot%202025-06-21%20202804.png)
 ---
